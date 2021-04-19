@@ -1,0 +1,12 @@
+
+localhost:8888/encrypt
+
+localhost:8080/
+spring-cloud-config-client
+to refresh 
+localhost:8080/refresh
+
+
+localhost:8888/spring-cloud-config-client/local
+
+export ENCRYPT_KEY=secret
